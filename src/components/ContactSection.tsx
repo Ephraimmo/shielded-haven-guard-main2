@@ -99,7 +99,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h4 className="font-heading text-lg text-foreground">Phone</h4>
-                <p className="font-body text-muted-foreground">Contact us for a free consultation</p>
+                <p className="font-body text-muted-foreground">+27 60 359 5202</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
